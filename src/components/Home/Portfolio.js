@@ -1,14 +1,14 @@
 import { styled } from "styled-components";
 import colors from "../../styles/colors";
-import bowling from "../../assets/portfolio/bowling.jpg";
-import present from "../../assets/portfolio/present.jpg";
-import bid from "../../assets/portfolio/bid.jpg";
-import androidapp from "../../assets/portfolio/androidapp.jpg";
-import covid from "../../assets/portfolio/covid.jpg";
-import health from "../../assets/portfolio/health.jpg";
-import pos from "../../assets/portfolio/pos.jpg";
-import bomb from "../../assets/portfolio/bomb.jpg";
-import board from "../../assets/portfolio/board.jpg";
+import bowling from "../../assets/portfolio/bowling.webp";
+import present from "../../assets/portfolio/present.webp";
+import bid from "../../assets/portfolio/bid.webp";
+import androidapp from "../../assets/portfolio/androidapp.webp";
+import covid from "../../assets/portfolio/covid.webp";
+import health from "../../assets/portfolio/health.webp";
+import pos from "../../assets/portfolio/pos.webp";
+import bomb from "../../assets/portfolio/bomb.webp";
+import board from "../../assets/portfolio/board.webp";
 
 const ContentBox = styled.div`
   width: 100%;

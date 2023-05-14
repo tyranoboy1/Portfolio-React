@@ -1,5 +1,5 @@
 import { styled } from "styled-components";
-import Introimg from "../../assets/Intro.jpg";
+import Introimg from "../../assets/portfolio/Intro.webp";
 import colors from "../../styles/colors";
 
 const Img = styled.img`

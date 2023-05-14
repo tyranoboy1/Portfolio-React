@@ -75,7 +75,7 @@ const Archibing = () => (
             <Text marginleft={20}>GitHub</Text>
           </TextBox>
           <a
-            href="https://github.com/"
+            href="https://github.com/tyranoboy1"
             target="_blank"
             rel="noopener noreferrer"
           >

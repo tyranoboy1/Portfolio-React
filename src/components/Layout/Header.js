@@ -144,6 +144,7 @@ const Header = () => {
                         color={colors.blackColor}
                         style={{ marginRight: "20px" }}
                         onClick={handleMenuClick}
+                        cursor={"pointer"}
                         size={15}
                       />
                     </IoCloseWrapper>
@@ -168,6 +169,7 @@ const Header = () => {
                     color={colors.whiteColor}
                     style={{ marginRight: "20px" }}
                     onClick={handleMenuClick}
+                    cursor={"pointer"}
                   />
                 )}
               </HeaderList>
